@@ -1,6 +1,6 @@
 # Hawkeye
 
-As the world advances in its journey towards automation and machine intelligence, equipping cutting-edge hardware with intelligent instincts grows in its importance. As intellect is for humans, software is for machines, hence we present an amalgamation of critically useful visionary skill sets for tracking, surveillance and unguided machine transportation. Autonomous unmanned ground vehicles comprise several technologies that allow the machine to be self-acting and self-regulating, sans human intervention.
+As the world advances in its journey towards automation and machine intelligence, equipping cutting-edge hardware with intelligent instincts grows in its importance. As intellect is for humans, software is for machines, hence we present an amalgamation of critically useful visionary skill sets for tracking, surveillance and unguided machine transportation. Autonomous unmanned ground vehicles comprise several technologies that allow the machine to be self-acting and self-regulating, sans human intervention.To inch towards our future goal of automation of self-driving cars, We, Shruti Mishra,Shambhavi and Vridhi Lalwani, 3rd year students at SRM Institute of Science and Technology,Chennai from CSE department have built a prototype of the features that must be inculcated in a self driving car.  
 
 
 ### Prerequisites for Object Detection and Line crossing module
